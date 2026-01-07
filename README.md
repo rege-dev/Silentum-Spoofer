@@ -1,3 +1,5 @@
+<img width="842" height="670" alt="image" src="https://github.com/user-attachments/assets/7a875190-301d-4566-a517-73d69b18b4eb" />
+
 # 🔱 Silentum Spoofer - HWID Bypass
 
 Silentum is a professional-grade tool designed to bypass HWID bans on FiveM and other platforms.
