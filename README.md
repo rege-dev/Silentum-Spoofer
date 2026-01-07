@@ -1,4 +1,6 @@
-<img width="421" height="335" alt="image" src="https://github.com/user-attachments/assets/7a875190-301d-4566-a517-73d69b18b4eb" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a875190-301d-4566-a517-73d69b18b4eb" alt="Silentum Spoofer" width="600">
+  </p>
 
 # 🔱 Silentum Spoofer - HWID Bypass
 
