@@ -6,7 +6,7 @@
 
 Silentum is a professional-grade tool designed to bypass HWID bans on FiveM and other platforms.
 
-## 🚀 BYPASSES: FiveGuard, ElectronAC, FireAC
+## 🚀 BYPASSES: FiveGuard, ElectronAC, FireAC, etc.
 **Specifically optimized to deep-clean and randomize all hardware traces for maximum invisibility.**
 
 ---
